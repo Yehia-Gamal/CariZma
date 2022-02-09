@@ -195,7 +195,7 @@ ul {
   background-color: #fafafa;
 }
 .header .main-nav > li > a:hover::before {
-  left: 0%;
+  left: 0;
 }
 .header .mega-menu {
   position: absolute;
