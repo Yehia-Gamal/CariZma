@@ -179,6 +179,10 @@ ul {
     font-size: 14px;
     height: 35px;
   }
+  .header .main-nav > .last-child a {
+    color: var(--main-color-alt);
+    font-size: 13px;
+  }
 }
 .header .main-nav > li > a::before {
   content: "";
